@@ -20,6 +20,7 @@ namespace Teste_20151102a
             Console.WriteLine();
             Console.ReadKey();
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
